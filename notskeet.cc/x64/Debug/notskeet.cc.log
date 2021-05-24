@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\33680\Desktop\Projets Perso\Cheats\csgo\interne\notskeet.cc\notskeet.cc\main.cpp(271): warning C4715: 'Hooked_EndScene' : les chemins de contrôle ne retournent pas tous une valeur
+main.obj : error LNK2019: symbole externe non résolu DetourFunction référencé dans la fonction "unsigned long __cdecl MainThread(void *)" (?MainThread@@YAKPEAX@Z)
+main.obj : error LNK2019: symbole externe non résolu Direct3DCreate9 référencé dans la fonction "unsigned long __cdecl MainThread(void *)" (?MainThread@@YAKPEAX@Z)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: symbole externe non résolu main référencé dans la fonction "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+detours.lib : warning LNK4272: type d'ordinateur bibliothèque 'x86' en conflit avec le type d'ordinateur cible 'x64'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\d3d9.lib : warning LNK4272: type d'ordinateur bibliothèque 'x86' en conflit avec le type d'ordinateur cible 'x64'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\d3dx9.lib : warning LNK4272: type d'ordinateur bibliothèque 'x86' en conflit avec le type d'ordinateur cible 'x64'
+C:\Users\33680\Desktop\Projets Perso\Cheats\csgo\interne\notskeet.cc\x64\Debug\notskeet.cc.exe : fatal error LNK1120: 3 externes non résolus
